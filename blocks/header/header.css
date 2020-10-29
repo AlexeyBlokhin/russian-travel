@@ -3,6 +3,6 @@
     flex-direction: row;
     justify-content: space-between;
     width: 90%;
-    margin: inherit;
+    margin: auto;
     padding: 28px 0 0;
 }
