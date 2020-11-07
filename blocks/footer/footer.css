@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 92px 0 24px;
+    max-width: 1184px;
     
 }
 
