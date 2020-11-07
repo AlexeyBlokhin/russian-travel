@@ -1,0 +1,17 @@
+.intro__title {
+    align-self: flex-start;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 54px;
+    line-height: 58px;
+    color: #fff;
+    margin: 0;
+    padding: 0 0 40px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
