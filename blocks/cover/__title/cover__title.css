@@ -9,7 +9,7 @@
     
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 680px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
